@@ -1,0 +1,17 @@
+{
+    "name": "rationale-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/rationale-bower.git"
+    },
+    "description": "Rationale font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
